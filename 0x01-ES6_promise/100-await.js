@@ -1,4 +1,4 @@
-export default function asyncUploadUser;
+export default asyncUploadUser;
 
 import { uploadPhoto, createUser } from "./utils.js";
 
