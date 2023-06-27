@@ -1,3 +1,5 @@
+export default asyncUploadUser;
+
 import { uploadPhoto, createUser } from "./utils.js";
 
 async function asyncUploadUser() {
@@ -18,4 +20,4 @@ async function asyncUploadUser() {
   }
 }
 
-export default asyncUploadUser;
+// export default asyncUploadUser;
